@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af20e324-3095-4657-8062-e10fb54a0d65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="test task for mojam" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afJkBSe2iTyPSTKkT7HUtC1sdu" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.OpenCaseRegular.openCaseRegular">
+    <configuration name="OpenCaseFast (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jcdev-ui-aqa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaus.yehor.mojam.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miaus.yehor.mojam.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miaus.yehor.mojam.tests.OpenCaseFast" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCaseFast.openCaseFast" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jcdev-ui-aqa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaus.yehor.mojam.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miaus.yehor.mojam.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miaus.yehor.mojam.tests.OpenCaseFast" />
+      <option name="METHOD_NAME" value="openCaseFast" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCaseRegular.openCaseRegular (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jcdev-ui-aqa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaus.yehor.mojam.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miaus.yehor.mojam.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miaus.yehor.mojam.tests.OpenCaseRegular" />
+      <option name="METHOD_NAME" value="openCaseRegular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCaseRegular.openCaseRegular (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jcdev-ui-aqa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaus.yehor.mojam.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miaus.yehor.mojam.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miaus.yehor.mojam.tests.OpenCaseRegular" />
+      <option name="METHOD_NAME" value="openCaseRegular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCaseRegular.openCaseRegular" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jcdev-ui-aqa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaus.yehor.mojam.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miaus.yehor.mojam.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.miaus.yehor.mojam.tests.OpenCaseRegular" />
+      <option name="METHOD_NAME" value="openCaseRegular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OpenCaseRegular.openCaseRegular" />
+        <item itemvalue="TestNG.OpenCaseFast.openCaseFast" />
+        <item itemvalue="TestNG.OpenCaseRegular.openCaseRegular (2)" />
+        <item itemvalue="TestNG.OpenCaseRegular.openCaseRegular (1)" />
+        <item itemvalue="TestNG.OpenCaseFast (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af20e324-3095-4657-8062-e10fb54a0d65" name="Default Changelist" comment="" />
+      <created>1587120855411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587120855411</updated>
+      <workItem from="1587120858385" duration="196000" />
+      <workItem from="1587121496234" duration="286000" />
+      <workItem from="1587122036256" duration="118000" />
+      <workItem from="1587122194496" duration="969000" />
+      <workItem from="1587220723738" duration="1167000" />
+      <workItem from="1587222162456" duration="6379000" />
+      <workItem from="1587229666059" duration="4552000" />
+      <workItem from="1587235295684" duration="3897000" />
+      <workItem from="1587239581374" duration="26000" />
+      <workItem from="1587239626825" duration="2137000" />
+      <workItem from="1587296543447" duration="4743000" />
+      <workItem from="1587314639388" duration="9121000" />
+      <workItem from="1587326668377" duration="1943000" />
+      <workItem from="1587374421985" duration="26430000" />
+      <workItem from="1587424111286" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
