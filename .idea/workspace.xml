@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af20e324-3095-4657-8062-e10fb54a0d65" name="Default Changelist" comment="" />
+    <list default="true" id="af20e324-3095-4657-8062-e10fb54a0d65" name="Default Changelist" comment="test task for mojam">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,12 @@
       <list>
         <option value="test task for mojam" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -177,10 +185,34 @@
       <workItem from="1587326668377" duration="1943000" />
       <workItem from="1587374421985" duration="26430000" />
       <workItem from="1587424111286" duration="226000" />
+      <workItem from="1587426188778" duration="891000" />
     </task>
+    <task id="LOCAL-00001" summary="test task for mojam">
+      <created>1587426393207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587426393207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test task for mojam" />
+    <option name="LAST_COMMIT_MESSAGE" value="test task for mojam" />
   </component>
 </project>
