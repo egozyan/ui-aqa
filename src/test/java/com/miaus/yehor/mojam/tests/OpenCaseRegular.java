@@ -23,8 +23,6 @@ public class OpenCaseRegular extends BaseTest{
         caseContentPage.scrollToContentCase(caseContentPage.getCaseImage());
         Case contentCase = new Case(caseContentPage.getCaseSecondImage(caseContentPage.getCaseImage()),
                 caseContentPage.getCaseSecondTitle(caseContentPage.getCaseImage()), caseContentPage.getCaseSecondName(caseContentPage.getCaseImage()));
-        System.out.println(expectedCase.getImage() + " " + expectedCase.getName() + " " + expectedCase.getTitle());
-        System.out.println(contentCase.getImage() + " " + contentCase.getName() + " " + contentCase.getTitle());
         Assert.assertEquals(expectedCase.getImage(),contentCase.getImage());
         Assert.assertEquals(expectedCase.getName(),contentCase.getName());
         Assert.assertEquals(expectedCase.getTitle(),contentCase.getTitle());
